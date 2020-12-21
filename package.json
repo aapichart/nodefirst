@@ -11,12 +11,18 @@
     "url": "git+https://github.com/aapichart/nodefirst.git"
   },
   "keywords": [
-    "chartx"
+    "chart"
   ],
   "author": "Apichart Asavarojpanich",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aapichart/nodefirst/issues"
   },
-  "homepage": "https://github.com/aapichart/nodefirst#readme"
+  "homepage": "https://github.com/aapichart/nodefirst#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
